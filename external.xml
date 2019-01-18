@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<title>Pentaho Community Forums</title>
+		<link>https://forums.pentaho.com/</link>
+		<description>Hitachi Vantara, Pentaho, Open Source, BI, Business Intelligence, Open, Reporting, Analysis, Workflow, Dashboards, Data Mining</description>
+		<language>en</language>
+		<lastBuildDate>Fri, 18 Jan 2019 10:41:05 GMT</lastBuildDate>
+		<generator>vBulletin</generator>
+		<ttl>60</ttl>
+		<image>
+			<url>https://forums.pentaho.com/images/misc/rss.png</url>
+			<title>Pentaho Community Forums</title>
+			<link>https://forums.pentaho.com/</link>
+		</image>
+		<item>
+			<title>How do I connect PDI to read SSAS cubes? From Analysis Services.</title>
+			<link>https://forums.pentaho.com/threads/231316-How-do-I-connect-PDI-to-read-SSAS-cubes-From-Analysis-Services/?goto=newpost</link>
+			<pubDate>Thu, 17 Jan 2019 20:32:30 GMT</pubDate>
+			<description><![CDATA[Hey maybe it's bizarre, but in multiple BI systems where you want to prevent redundant calculations --- 
+ 
+ 
+Anyway let's say I want to pull info/...]]></description>
+			<content:encoded><![CDATA[<div>Hey maybe it's bizarre, but in multiple BI systems where you want to prevent redundant calculations ---<br />
+<br />
+<br />
+Anyway let's say I want to pull info/ MDX/ Mondrian query some existing Microsoft SSAS cubes and pull it into Pentaho PDI.<br />
+<br />
+<br />
+Uhm .... how do I configure that connection? Is it even possible out-of-the-box without heavy customization?<br />
+<br />
+I have all the proper connection credentials/ know the connection string. Just not sure if it quite works in Pentaho PDI. SSIS of course has a method for it.</div>
+
+]]></content:encoded>
+			<category domain="https://forums.pentaho.com/forums/135-Pentaho-Data-Integration-Kettle/"><![CDATA[Pentaho Data Integration [Kettle]]]></category>
+			<dc:creator>cool_runnings</dc:creator>
+			<guid isPermaLink="true">https://forums.pentaho.com/threads/231316-How-do-I-connect-PDI-to-read-SSAS-cubes-From-Analysis-Services/</guid>
+		</item>
+		<item>
+			<title>Get File Names - Empty Rows</title>
+			<link>https://forums.pentaho.com/threads/231315-Get-File-Names-Empty-Rows/?goto=newpost</link>
+			<pubDate>Thu, 17 Jan 2019 08:05:03 GMT</pubDate>
+			<description><![CDATA[Use "Get File Names" component using wild card  and "Detect empty stream" component. If there are no files found, Detect empty stream give one row...]]></description>
+			<content:encoded><![CDATA[<div>Use &quot;Get File Names&quot; component using wild card  and &quot;Detect empty stream&quot; component. If there are no files found, Detect empty stream give one row extra which you can use to identity whether file has arrived or not. try this  once . Its working fine</div>
+
+]]></content:encoded>
+			<category domain="https://forums.pentaho.com/forums/135-Pentaho-Data-Integration-Kettle/"><![CDATA[Pentaho Data Integration [Kettle]]]></category>
+			<dc:creator>karan Arora</dc:creator>
+			<guid isPermaLink="true">https://forums.pentaho.com/threads/231315-Get-File-Names-Empty-Rows/</guid>
+		</item>
+		<item>
+			<title>Remote connection</title>
+			<link>https://forums.pentaho.com/threads/231313-Remote-connection/?goto=newpost</link>
+			<pubDate>Wed, 16 Jan 2019 14:51:22 GMT</pubDate>
+			<description>Please, how do I enable a remote connection (Spoon) ? Thanks</description>
+			<content:encoded><![CDATA[<div><div style="text-align: left;"><font color="#333333"><span style="font-family: Verdana">Please, how do I enable a remote connection (Spoon) ? Thanks</span></font></div></div>
+
+]]></content:encoded>
+			<category domain="https://forums.pentaho.com/forums/135-Pentaho-Data-Integration-Kettle/"><![CDATA[Pentaho Data Integration [Kettle]]]></category>
+			<dc:creator>Osmar Mateus</dc:creator>
+			<guid isPermaLink="true">https://forums.pentaho.com/threads/231313-Remote-connection/</guid>
+		</item>
+		<item>
+			<title>PDI and Remote DB Connections</title>
+			<link>https://forums.pentaho.com/threads/231314-PDI-and-Remote-DB-Connections/?goto=newpost</link>
+			<pubDate>Wed, 16 Jan 2019 12:37:59 GMT</pubDate>
+			<description>Please, how do I enable remote connection PDI? Thanks</description>
+			<content:encoded><![CDATA[<div>Please, how do I enable remote connection PDI? Thanks</div>
+
+]]></content:encoded>
+			<category domain="https://forums.pentaho.com/forums/135-Pentaho-Data-Integration-Kettle/"><![CDATA[Pentaho Data Integration [Kettle]]]></category>
+			<dc:creator>Osmar Mateus</dc:creator>
+			<guid isPermaLink="true">https://forums.pentaho.com/threads/231314-PDI-and-Remote-DB-Connections/</guid>
+		</item>
+		<item>
+			<title>Clarification on Pan and Kitchen</title>
+			<link>https://forums.pentaho.com/threads/231312-Clarification-on-Pan-and-Kitchen/?goto=newpost</link>
+			<pubDate>Wed, 16 Jan 2019 10:00:09 GMT</pubDate>
+			<description>Hi Team, 
+ 
+I am able to run transformation (.ktr) using AEL(using spark engine) in PDI client. 
+ 
+So my question is, 
+ 
+*How do i run transformation...</description>
+			<content:encoded><![CDATA[<div>Hi Team,<br />
+<br />
+I am able to run transformation (.ktr) using AEL(using spark engine) in PDI client.<br />
+<br />
+So my question is,<br />
+<br />
+<b>How do i run transformation using pan.sh in AEL(spark engine).?</b></div>
+
+]]></content:encoded>
+			<category domain="https://forums.pentaho.com/forums/135-Pentaho-Data-Integration-Kettle/"><![CDATA[Pentaho Data Integration [Kettle]]]></category>
+			<dc:creator>shivuc.8617</dc:creator>
+			<guid isPermaLink="true">https://forums.pentaho.com/threads/231312-Clarification-on-Pan-and-Kitchen/</guid>
+		</item>
+		<item>
+			<title><![CDATA[Step "Wait for file" with different File name]]></title>
+			<link>https://forums.pentaho.com/threads/231311-Step-quot-Wait-for-file-quot-with-different-File-name/?goto=newpost</link>
+			<pubDate>Tue, 15 Jan 2019 17:09:01 GMT</pubDate>
+			<description><![CDATA[Hi! 
+ 
+I get a file every day to use in my PDI solution, however, it comes with a specific name "CompanyName_LoadBI_YYYYmmDD.HHMM.zip". 
+Because date...]]></description>
+			<content:encoded><![CDATA[<div>Hi!<br />
+<br />
+I get a file every day to use in my PDI solution, however, it comes with a specific name &quot;CompanyName_LoadBI_YYYYmmDD.HHMM.zip&quot;.<br />
+Because date and time are variables, I can not put a specific name in &quot;Wait for file&quot; -&gt; &quot;File name&quot;.<br />
+Remembering that there are not multiple files, it will always be the same file once a day almost always at the same time, but with different date / time.<br />
+<br />
+<br />
+I tried to do the following in the &quot;File name&quot; field:<br />
+C:\Users\Company\upload\.*CompanyName_LoadBI.*\.zip$<br />
+<br />
+<br />
+But to no avail.<br />
+Can you help me?<br />
+<br />
+<br />
+Thanks! :)</div>
+
+]]></content:encoded>
+			<category domain="https://forums.pentaho.com/forums/135-Pentaho-Data-Integration-Kettle/"><![CDATA[Pentaho Data Integration [Kettle]]]></category>
+			<dc:creator>lucas.turco</dc:creator>
+			<guid isPermaLink="true">https://forums.pentaho.com/threads/231311-Step-quot-Wait-for-file-quot-with-different-File-name/</guid>
+		</item>
+		<item>
+			<title>HTTP post - proxy</title>
+			<link>https://forums.pentaho.com/threads/231310-HTTP-post-proxy/?goto=newpost</link>
+			<pubDate>Mon, 14 Jan 2019 16:17:51 GMT</pubDate>
+			<description><![CDATA[For some reason Kettle is not able to use Proxy Host, response: failed to respond 
+Same proxy works in REST client step. 
+ 
+"HTTP post " can work...]]></description>
+			<content:encoded><![CDATA[<div>For some reason Kettle is not able to use Proxy Host, response: failed to respond<br />
+Same proxy works in REST client step.<br />
+<br />
+&quot;HTTP post &quot; can work with proxy?</div>
+
+]]></content:encoded>
+			<category domain="https://forums.pentaho.com/forums/135-Pentaho-Data-Integration-Kettle/"><![CDATA[Pentaho Data Integration [Kettle]]]></category>
+			<dc:creator>Gosforth</dc:creator>
+			<guid isPermaLink="true">https://forums.pentaho.com/threads/231310-HTTP-post-proxy/</guid>
+		</item>
+		<item>
+			<title>StAX Files processing - GC overhead limit exceeded</title>
+			<link>https://forums.pentaho.com/threads/231309-StAX-Files-processing-GC-overhead-limit-exceeded/?goto=newpost</link>
+			<pubDate>Mon, 14 Jan 2019 11:07:05 GMT</pubDate>
+			<description><![CDATA[Hi everybody,  
+I've searched through several posts but couldn't find a solution to this problem. 
+ 
+I've got a Job (*Job1*) that reads from disk the...]]></description>
+			<content:encoded><![CDATA[<div>Hi everybody, <br />
+I've searched through several posts but couldn't find a solution to this problem.<br />
+<br />
+I've got a Job (<b>Job1</b>) that reads from disk the name of all the XML files in a specific input folder.<br />
+This file names are then passed to another Job (<b>Job2</b>) that:<br />
+<ol class="decimal"><li style=""><b>Reads the file </b>(StAX)</li><li style=""><b>Saves the content to a database</b>, whether the content of the XML satisfies specific requirements</li><li style=""><b>Deletes the imported file </b>from disk</li></ol><br />
+<br />
+<b>Job2</b> <i>Executes for every input row</i>, so it runs for every input file.<br />
+<br />
+The problem is: after several processed files, I receive an out of memory error &quot;<b>GC overhead limit exceeded</b>&quot;.<br />
+<br />
+Gievn the fact that I would like to be able to process thousands of files, how could I set my jobs structure in order to avoid this Memory Error?<br />
+I thought that the job option &quot;<i>Execute for every input row&quot; </i>releases the memory after every single processing run, but it seems it's not the case.<br />
+<br />
+I'm sorry but I can't post the Job and Transformation files for privacy matters.<br />
+<br />
+P.S.<br />
+Increasing the spoon memory limit is not a solution for me. :D<br />
+<br />
+Any idea?<br />
+<br />
+Thanks in advance!!!</div>
+
+]]></content:encoded>
+			<category domain="https://forums.pentaho.com/forums/135-Pentaho-Data-Integration-Kettle/"><![CDATA[Pentaho Data Integration [Kettle]]]></category>
+			<dc:creator>marivol</dc:creator>
+			<guid isPermaLink="true">https://forums.pentaho.com/threads/231309-StAX-Files-processing-GC-overhead-limit-exceeded/</guid>
+		</item>
+		<item>
+			<title>LDAP Code: 49. Error authenticating user 80090308: LdapErr: DSID-0C09042F</title>
+			<link>https://forums.pentaho.com/threads/231308-LDAP-Code-49-Error-authenticating-user-80090308-LdapErr-DSID-0C09042F/?goto=newpost</link>
+			<pubDate>Tue, 08 Jan 2019 15:50:50 GMT</pubDate>
+			<description><![CDATA[Hello everyone, 
+ 
+ 
+it's been several days since I can not solve this problem. I wanted to connect Pentaho Data Integration 8.1 to Active directory,...]]></description>
+			<content:encoded><![CDATA[<div>Hello everyone,<br />
+<br />
+<br />
+it's been several days since I can not solve this problem. I wanted to connect Pentaho Data Integration 8.1 to Active directory, but I can not connect.<br />
+Can you help me please:<br />
+<br />
+Custom Connection URL : jdbc:activedirectory:User=CN=xxxx,OU=Domain Controllers,DC=xxx,DC=local;Server=192.xx.xx.xx;Port=389;<br />
+Custom Driver Class Name : cdata.jdbc.activedirectory.ActiveDirectoryDriver<br />
+User Name : administrator<br />
+Password : XXXXX<br />
+<br />
+here is the mistake that gives me :<br />
+<br />
+java.lang.reflect.InvocationTargetException: Couldn't find any rows because of an error :org.pentaho.di.core.exception.KettleDatabaseException: <br />
+An error occurred executing SQL: <br />
+SELECT * FROM Computer<br />
+LDAP Code: 49. Error authenticating user 80090308: LdapErr: DSID-0C09042F, comment: AcceptSecurityContext error, data 52e, v2580</div>
+
+]]></content:encoded>
+			<category domain="https://forums.pentaho.com/forums/78-Pentaho-Reporting/">Pentaho Reporting</category>
+			<dc:creator>haabdisoub</dc:creator>
+			<guid isPermaLink="true">https://forums.pentaho.com/threads/231308-LDAP-Code-49-Error-authenticating-user-80090308-LdapErr-DSID-0C09042F/</guid>
+		</item>
+		<item>
+			<title>Directory variable in PRD?</title>
+			<link>https://forums.pentaho.com/threads/231306-Directory-variable-in-PRD/?goto=newpost</link>
+			<pubDate>Mon, 07 Jan 2019 10:29:26 GMT</pubDate>
+			<description>Forgive me that on Kettle forum but PRD oneis dead - I never got there any answer. Maybe someone will tell you how to solve:  
+ 
+I use PDI where in...</description>
+			<content:encoded><![CDATA[<div>Forgive me that on Kettle forum but PRD oneis dead - I never got there any answer. Maybe someone will tell you how to solve: <br />
+<br />
+I use PDI where in transformation I have Pentaho Reporting Output step.<br />
+In report I use PDI transformation as data source. Path to this  transformation is static path, for instance  &quot;c:\pdi\workspace\some_job\transformation1.ktr&quot;<br />
+<br />
+Problem is that when I move tranformation to another directory I have to  redefine path. How to make it dynamic directory variable? Someting like  ${Internal.Entry.Current.Directory} in PDI?<br />
+<br />
+Regards</div>
+
+]]></content:encoded>
+			<category domain="https://forums.pentaho.com/forums/78-Pentaho-Reporting/">Pentaho Reporting</category>
+			<dc:creator>Gosforth</dc:creator>
+			<guid isPermaLink="true">https://forums.pentaho.com/threads/231306-Directory-variable-in-PRD/</guid>
+		</item>
+		<item>
+			<title>Directory name variable in Reporting Designer</title>
+			<link>https://forums.pentaho.com/threads/231304-Directory-name-variable-in-Reporting-Designer/?goto=newpost</link>
+			<pubDate>Fri, 04 Jan 2019 13:17:57 GMT</pubDate>
+			<description>I use PDI where in transformation I have Pentaho Reporting Output step. 
+In report I use PDI transformation as data source. Path to this...</description>
+			<content:encoded><![CDATA[<div>I use PDI where in transformation I have Pentaho Reporting Output step.<br />
+In report I use PDI transformation as data source. Path to this transformation is static path, for instance &quot;c:\pdi\workspace\some_job\transformation1.ktr&quot;<br />
+<br />
+Problem is that when I move tranformation to another directory I have to redefine path. How to make it dynamic directory variable? Someting like ${Internal.Entry.Current.Directory} in PDI?<br />
+<br />
+Regards</div>
+
+]]></content:encoded>
+			<category domain="https://forums.pentaho.com/forums/78-Pentaho-Reporting/">Pentaho Reporting</category>
+			<dc:creator>Gosforth</dc:creator>
+			<guid isPermaLink="true">https://forums.pentaho.com/threads/231304-Directory-name-variable-in-Reporting-Designer/</guid>
+		</item>
+		<item>
+			<title>How to find coresponding line in file?</title>
+			<link>https://forums.pentaho.com/threads/231303-How-to-find-coresponding-line-in-file/?goto=newpost</link>
+			<pubDate>Fri, 04 Jan 2019 13:09:58 GMT</pubDate>
+			<description><![CDATA[I use "Get File Names=> Mail" steps to send attachments from some directory. Between them I need step that will check the correct address for each...]]></description>
+			<content:encoded><![CDATA[<div>I use &quot;Get File Names=&gt; Mail&quot; steps to send attachments from some directory. Between them I need step that will check the correct address for each attachment.<br />
+<br />
+For instance short_filename is 1098235.txt so I need to find line in some text file that contains '1098235 <a href="mailto:some@address.com">some@address.com</a>' (earlier I will cat '1098235' from short_filename field... using JavaScript) and use e-mail addres for Mail step.<br />
+<br />
+So the file that maps numbers with e-mail address could have content:<br />
+<br />
+company_number; email_address<br />
+1098234; <a href="mailto:x@address.com">x@address.com</a><br />
+1098235; <a href="mailto:some@address.com">some@address.com</a><br />
+1098236; <a href="mailto:z@address.com">z@address.com</a><br />
+..; ...<br />
+<br />
+Any advice?</div>
+
+]]></content:encoded>
+			<category domain="https://forums.pentaho.com/forums/135-Pentaho-Data-Integration-Kettle/"><![CDATA[Pentaho Data Integration [Kettle]]]></category>
+			<dc:creator>Gosforth</dc:creator>
+			<guid isPermaLink="true">https://forums.pentaho.com/threads/231303-How-to-find-coresponding-line-in-file/</guid>
+		</item>
+		<item>
+			<title>Slow Load to Database</title>
+			<link>https://forums.pentaho.com/threads/231305-Slow-Load-to-Database/?goto=newpost</link>
+			<pubDate>Fri, 04 Jan 2019 10:55:49 GMT</pubDate>
+			<description>I Have the same problem. A load of one milion (daily) records takes an average of 5 hours to run. Any solution?</description>
+			<content:encoded><![CDATA[<div><font color="#333333">I Have the same problem. A load of one milion (daily) records takes an average of 5 hours to run. Any solution?</font></div>
+
+]]></content:encoded>
+			<category domain="https://forums.pentaho.com/forums/135-Pentaho-Data-Integration-Kettle/"><![CDATA[Pentaho Data Integration [Kettle]]]></category>
+			<dc:creator>Fabio Wencevoski</dc:creator>
+			<guid isPermaLink="true">https://forums.pentaho.com/threads/231305-Slow-Load-to-Database/</guid>
+		</item>
+		<item>
+			<title>PRD Dynamic Environment Variables</title>
+			<link>https://forums.pentaho.com/threads/231302-PRD-Dynamic-Environment-Variables/?goto=newpost</link>
+			<pubDate>Thu, 03 Jan 2019 17:36:18 GMT</pubDate>
+			<description>Hi members! I am working with Pentaho Server 6.1 and I need to integrate a report (made in PRD 5.4). The report works as I expect but I must find a...</description>
+			<content:encoded><![CDATA[<div><font color="#3D3D3D"><span style="font-family: &amp;amp">Hi members! I am working with Pentaho Server 6.1 and I need to integrate a report (made in PRD 5.4). The report works as I expect but I must find a solution to a little problem to put the report in production environment. The report is using a CDA data set and I need to specify a dynamic &quot;server URL&quot; (according with the customers environment). I have tried using &quot;Server URL field&quot; but the environment variables have a default values. The question is: How can I set dinamically the environment variables? Thank you for reading!</span></font></div>
+
+]]></content:encoded>
+			<category domain="https://forums.pentaho.com/forums/78-Pentaho-Reporting/">Pentaho Reporting</category>
+			<dc:creator>Marcos Borio</dc:creator>
+			<guid isPermaLink="true">https://forums.pentaho.com/threads/231302-PRD-Dynamic-Environment-Variables/</guid>
+		</item>
+		<item>
+			<title>Executing bat file on remote machine from local machine in same network.</title>
+			<link>https://forums.pentaho.com/threads/231301-Executing-bat-file-on-remote-machine-from-local-machine-in-same-network/?goto=newpost</link>
+			<pubDate>Thu, 27 Dec 2018 12:30:20 GMT</pubDate>
+			<description>Hi All, 
+ 
+I have multiple machines on a same network. I have my pentaho solution installed on a machine say machine A. 
+I have created a ...</description>
+			<content:encoded><![CDATA[<div>Hi All,<br />
+<br />
+I have multiple machines on a same network. I have my pentaho solution installed on a machine say machine A.<br />
+I have created a  executeJob.bat file on machine A. I execute pentaho ETL job by executing executeJob.bat file on machine A.<br />
+Now I want to execute this executeJob.bat file on the same machine A from a remote machine say machine B or machine C which are in same network.<br />
+Please help me how can I achieve this.<br />
+<br />
+<br />
+Thanks<br />
+Ajinkya</div>
+
+]]></content:encoded>
+			<category domain="https://forums.pentaho.com/forums/135-Pentaho-Data-Integration-Kettle/"><![CDATA[Pentaho Data Integration [Kettle]]]></category>
+			<dc:creator>Ajinkya</dc:creator>
+			<guid isPermaLink="true">https://forums.pentaho.com/threads/231301-Executing-bat-file-on-remote-machine-from-local-machine-in-same-network/</guid>
+		</item>
+		<item>
+			<title>Changes in License for PDI community edition after bought by Hitachi ?</title>
+			<link>https://forums.pentaho.com/threads/231300-Changes-in-License-for-PDI-community-edition-after-bought-by-Hitachi/?goto=newpost</link>
+			<pubDate>Thu, 27 Dec 2018 07:04:23 GMT</pubDate>
+			<description><![CDATA[Hi, i don't know if anyone have already asked this question. I am just wondering if there is any changes on the Pentaho DI community edition license...]]></description>
+			<content:encoded><![CDATA[<div>Hi, i don't know if anyone have already asked this question. I am just wondering if there is any changes on the Pentaho DI community edition license after being bought by Hitachi. The reason that i am asking that we are utilizing PDI community edition for some of our processes in the company and i would like to make sure we are not violating any licenses  :).</div>
+
+]]></content:encoded>
+			<category domain="https://forums.pentaho.com/forums/135-Pentaho-Data-Integration-Kettle/"><![CDATA[Pentaho Data Integration [Kettle]]]></category>
+			<dc:creator>Riadi001</dc:creator>
+			<guid isPermaLink="true">https://forums.pentaho.com/threads/231300-Changes-in-License-for-PDI-community-edition-after-bought-by-Hitachi/</guid>
+		</item>
+	</channel>
+</rss>
